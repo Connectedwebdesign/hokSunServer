@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "Promise": true,
+    "reqlib": true,
+    "Console": true,
+    "Config": true,
+    "SystemAccount": true,
+    "Constant": true,
+    "mongoose": true,
+    "mongooseReadOnly": true,
+  }
+}
